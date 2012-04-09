@@ -1,0 +1,1 @@
+Agnostic unittest to check if a (mounted) filesystem is POSIX compliant You can use them directly or as basis for you own tests. Currently they are work-in-progress.
