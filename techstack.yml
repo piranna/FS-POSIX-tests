@@ -2,7 +2,7 @@ repo_name: piranna/FS-POSIX-tests
 report_id: 306e892d21de39b5ce9c12e5de958a01
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-27T06:19:03+00:00'
+timestamp: '2024-01-05T08:15:08+00:00'
 requested_by: piranna
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/piranna/FS-POSIX-tests
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -26,4 +27,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/piranna/FS-POSIX-tests
   detection_source: Repo Metadata
